@@ -1,0 +1,15 @@
+{
+  "resources": [
+    "/Users/berriers/Programming/GDD325-bb/FishPeopleSplash/assets/sound/../soundsprite.ogg",
+    "/Users/berriers/Programming/GDD325-bb/FishPeopleSplash/assets/sound/../soundsprite.m4a",
+    "/Users/berriers/Programming/GDD325-bb/FishPeopleSplash/assets/sound/../soundsprite.mp3",
+    "/Users/berriers/Programming/GDD325-bb/FishPeopleSplash/assets/sound/../soundsprite.ac3"
+  ],
+  "spritemap": {
+    "waterSounds": {
+      "start": 0,
+      "end": 5.999115646258503,
+      "loop": false
+    }
+  }
+}
